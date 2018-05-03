@@ -26,7 +26,7 @@ content:
             <hr>
 
             <!-- Contact links -->
-            <section class='contact w-100'>
+            <section class='contact w-100 no-print'>
                 <a href='mailto:{{ content.resume.email }}' class="no-underline near-white bg-animate bg-near-black hover-bg-gray inline-flex items-center ma2 ml0 tc br2 pa2">
                     <span class='dib w2 f3'><i class='fas fa-envelope-square'></i></span>
                     <span class="f6 ml1 pr2">Email</span>
@@ -63,7 +63,7 @@ content:
                         <hr>
                         <h3 class='headline--underline f4'>Summary</h3>
                         <span class='f5 lh-copy'>
-                        {{ content.bio.summary | urlize | safe }}
+                          {{ content.bio.summary | urlize | safe }}
                         </span>
                     </div>
 
@@ -74,9 +74,6 @@ content:
                           <div class="pa3 bt b--black-10">
                             <p class="f6 f5-ns lh-copy">
                               {{ content.bio.highlight | urlize | safe }}
-                              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-                              tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-                              vero eos et accusam et justo duo dolores et ea rebum.
                             </p>
                           </div>
                         </article>
@@ -110,4 +107,21 @@ content:
             </div>
         </div>
     </article>
+
+    <div class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h1>Contact</h1>
+            <p>
+              Email: <a hrefef='mailto:daniel.p.mcgrady@gmail.com'>daniel.p.mcgrady@gmail.com</a>
+            </p>
+            <p>
+              Linkedin: <a href='https://linkedin.com/in/danmcgrady'>https://linkedin.com/in/danmcgrady</a>
+            </p>
+            <p>
+              Twitter: <a href='https://twitter.com/dmix'>https://twitter.com/dmix</a>
+            </p>
+        </div>
+    </div>
+
 {% endblock %}

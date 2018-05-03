@@ -1,0 +1,8 @@
+.sass-cache
+.bitballoon
+build/
+node_modules
+.jekyll-assets-cache/
+.agignore
+.bundle
+.DS_Store

@@ -1,0 +1,43 @@
+$font-heading: 'Roboto', sans-serif;
+$font-primary: 'Gothic A1', sans-serif;
+
+a {
+  color: #0074D9;
+  text-decoration: underline;
+  transition: color .15s ease-in;
+}
+
+hr {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #DDD;
+}
+
+body {
+  font-family: $font-primary;
+  // font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  font-weight: 500;
+  color: rgba(0,0,0,.9);
+}
+
+.bio {
+  .bio--name {
+    // line-height: 1;
+  }
+}
+
+.headline--underline {
+  color: rgba(0,0,0,.9);
+  font-weight: 900;
+  text-transform: uppercase;
+}
+// .headline--underline::after {
+//     content: '';
+//     display: block;
+//     border-bottom: 2px solid black;
+//     width: 3em;
+// }

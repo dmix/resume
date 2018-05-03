@@ -1,0 +1,16 @@
+-
+  name: Dribbble
+  url: https://dribbble.com/dmix
+  icon: fab fa-dribbble-square
+-
+  name: Github
+  url: https://github.com/dmix
+  icon: fab fa-github-square
+-
+  name: Linkedin
+  url: https://linkedin.com/in/danmcgrady
+  icon: fab fa-linkedin
+-
+  name: Twitter
+  url: https://twitter.com/dmix
+  icon: fab fa-twitter-square

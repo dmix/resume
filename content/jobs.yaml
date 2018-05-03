@@ -1,0 +1,92 @@
+---
+-
+  dates:
+    from:  2010-01
+    to:    Present
+  title:   Programmer, UX Designer, Web Analytics
+  company: Self-employed Contactor
+  summary: |
+    <p>
+      Contracting with startups to help build out their products via Ruby
+      Javascript, UX design, and product development. Most recently working with:
+    </p>
+
+    <ul>
+      <li>
+        Nimonik.com - Montreal-based company where I built various reports on their
+        Ruby-on-Rails app and Backbone. js front-end
+      </li>
+      <li>
+        Parakweet.com - A San Francisco based company where I lead product
+        development, JS programming, and UX work for their AI and machine
+        learning products.
+      </li>
+      <li>
+        CareGuide.com - A Toronto based company where I helped build out their
+        early Ruby on Rails app that drives multiple popular web properties in
+        the Senior Care health space. And more.
+      </li>
+    </ul>
+
+    <p>
+      I worked both remote and in-office, integrating directly with teams.
+    </p>
+
+-
+  dates:
+    from:  2015-01
+    to:    2017-02
+  title:   Co-founder; UX/Programming/Product Dev
+  company: Copperhead Security
+  summary: |
+    Built and design marketing website Built open source OTA(over-the-air)
+    update server in golang Android app development UX designer and product
+    management We building a secure version of Android and selling hardened
+    smartphones to people who work with sensitive data.
+-
+  dates:
+    from:  2014-06
+    to:    2014-11
+  title:   Software Developer
+  company: Blueprint / ShopLocket
+  summary: |
+    Focused on both front & backend development on http://theblueprint.com/ and
+    Shoplocket's (https:/ www.shoplocket.com) embeddable Angular.js based
+    shopping cart. Also managed their analytics across different properties.
+-
+  dates:
+    from:  2010-08
+    to:    Present
+  title:   Co-Founder; Full-stack Developer
+  company: CareLogger
+  summary: |
+    Developed a Diabetes Logbook (Ruby on Rails HTML5 mobile) to 15k users,
+    $1000/m revenue, recently made free as public service. I led programming,
+    deployment, landing pages, online marketing, A/B tests.
+-
+  dates:
+    from:  2009-11
+    to:    2010-11
+  title:   Full-Stack Developer
+  company: LearnHub
+  summary: |
+    <p>
+      Front-end development of http://Learnhub.com, http://StudyPlaces.com and
+      http://JumboTests.com; including user experience, ruby programming, and
+      web analytics.
+    </p>
+
+    <p>
+      LearnHub had 3 million pageviews per month, they were a social network
+      for university students and lead generation company, helping recruitment
+      for Universities around North America.
+    </p>
+-
+  dates:
+    from:  2009-06
+    to:    2009-12
+  title:   Jr. Developer (Ruby on Rails)
+  company: NuLayer
+  summary: |
+    Developed various Ruby on Rails for their clients, including
+    http://SportsNet.ca and a Twitter firehose photo feed

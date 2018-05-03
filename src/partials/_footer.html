@@ -1,0 +1,21 @@
+<footer class='footer mt6 bg-black-10'>
+    <div class='flex flex-column'>
+        <div class='footer--menu w-100 tc  pv4 black-70 b bb b--black-10'>
+            <ul class='menu footer--menu-links'>
+                {% include "src/partials/_nav_items.html" %}
+            </ul>
+        </div>
+
+        <div class='footer--author w-100 tc f6 bg-black-80 white-40'>
+            <p>
+                Handbuilt by <a href='https://github.com/dmix' class='white-60'>@dmix</a> -
+                Static Resume Generator -
+                &copy; <span class='copyright--year'>2018</span> {{ content.bio.name }}
+            </p>
+        </div>
+
+        <!-- <div class='footer&#45;&#45;copyright w&#45;100 tc f6'> -->
+        <!-- </div> -->
+    </div>
+</footer>
+

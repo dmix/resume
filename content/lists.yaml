@@ -1,0 +1,32 @@
+-
+  title: Skills
+  items:
+    - Programming
+    - UX Design
+    - Web Analytics
+    - Typography
+    - Product Development
+    - Wireframing
+    - A/B Testing
+    - Data Science
+-
+  title: Languages
+  items:
+    - Ruby
+    - Javascript / Typescript
+    - Node.js
+    - Erlang / Elixir
+    - Android
+    - CSS / SASS / PostCSS
+    - Golang
+    - Clojure
+    - Haskell
+-
+  title: Frameworks
+  items:
+    - Ruby on Rails
+    - React
+    - Backone.js
+    - Angular.js
+    - Phoenix
+    - Vue.js

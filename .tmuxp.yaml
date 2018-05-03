@@ -1,0 +1,16 @@
+session_name: static
+start_directory: ~/dev/_html/static-boilerplate
+windows:
+  - window_name: gulp
+    layout: main-vertical
+    panes:
+      - make watch
+  - window_name: todo
+    layout: main-vertical
+    focus: true
+    panes:
+      - nvim TODO.tasks
+      - /usr/bin/open -a "/Applications/Google Chrome.app" 'http://localhost:8000' && clear
+  - window_name: editor
+    panes:
+      - nvim .

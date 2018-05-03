@@ -1,0 +1,22 @@
+{% include 'src/partials/_head.html' %}
+
+<body class='layout app bg-near-white br2'>
+    <!-- Navigation -->
+    <div class='layout--nav'>
+      {% include 'src/partials/_nav.html' %}
+    </div>
+
+    <!-- Contents -->
+    <div class='layout--contents'>
+      {% block content %}{% endblock %}
+    </div>
+
+    <!-- Footer -->
+    <div class='layout--footer'>
+      {% include 'src/partials/_footer.html' %}
+    </div>
+
+    <!-- Javascript -->
+    {% include 'src/partials/_scripts.html' %}
+</body>
+</html>

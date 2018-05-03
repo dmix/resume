@@ -4,7 +4,7 @@
     from:  2010-01
     to:    Present
   title:   Programmer, UX Designer, Web Analytics
-  company: Self-employed Contactor
+  company: Self-employed Contractor
   summary: |
     <p>
       Contracting with startups to help build out their products via Ruby
@@ -31,7 +31,6 @@
     <p>
       I worked both remote and in-office, integrating directly with teams.
     </p>
-
 -
   dates:
     from:  2015-01
@@ -39,10 +38,10 @@
   title:   Co-founder; UX/Programming/Product Dev
   company: Copperhead Security
   summary: |
-    Built and design marketing website Built open source OTA(over-the-air)
-    update server in golang Android app development UX designer and product
-    management We building a secure version of Android and selling hardened
-    smartphones to people who work with sensitive data.
+    Built and designed https://copperhead.co website. Developed an open source OTA
+    (over-the-air) update server in Golang. Also did Android app development,
+    UX design, and product management for a secure version of Android on a
+    hardened smartphone.
 -
   dates:
     from:  2014-06

@@ -1,6 +1,5 @@
 .sass-cache
 .bitballoon
-build/
 node_modules
 .jekyll-assets-cache/
 .agignore

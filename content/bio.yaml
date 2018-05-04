@@ -1,27 +1,34 @@
 name:      Daniel McGrady
 image:     ./img/daniel_mcgrady.jpeg
 email:     daniel.p.mcgrady@gmail.com
-job_title: UX Designer / Programmer / Analytics
+job_title: Full-stack Developer / UX Designer
 summary: >
   <p>
-    I consult with companies as a programmer and UX designer. I code in Ruby,
-    Javascript, Go, and I play around with functional languages in my spare time
-    (Erlang, Clojure, etc). I primarily build web apps, a few server apps in Go,
-    and I have also developed Android apps.
+    I'm a full-stack developer and UX designer who has worked/consulted with a
+    variety of startups over the last ten years.
+  </p>
+
+  <p>
+    I code primarily in Ruby on Rails and Javascript (React.js, Angular, etc),
+    while using functional languages in my spare time (Erlang, Elixir, Clojure,
+    etc). I primarily build web apps, Android apps, and some pure server/system
+    programs. But my main passion is on the front-end/product side closer to
+    the user.
   </p>
 
   <p>
     I started off as a designer but eventually became a self-taught programmer,
-    spending nearly a decade developing web and mobile apps, with a focus on the
-    front-end. I've also been tasked with prototyping products for various startups
-    from wireframes, A/B testing, managing web analytics, and building out the
-    initial MVPs. I also spent 6 months working as a Product Manager.
+    spending nearly a decade developing web and mobile apps. I've been tasked with
+    prototyping products for various startups from UX design, wireframes, A/B
+    testing, managing web analytics, to building out the initial MVPs. I also spent
+    6 months working as a Product Manager to temporarily fill-in a vacant role
+    at a startup.
   </p>
 
 highlight:
-  About 2yrs ago I learned how to use Erlang and fell in love with the
-  simplicity and architecture of the system. I've been a big fan of FP for some
-  time and was an early adopter of Clojure. I eventually switched over to
-  Elixir/Phoenix when building a web app for a side project, both are my go-to
+  About two years ago I learned Erlang and fell in love with the simplicity and
+  architecture of the system. I've been a big fan of functional programming for
+  some time and was an early adopter of Clojure. I eventually switched over to
+  Elixir/Phoenix when building a web app for a side project. Both are my go-to
   language/frameworks after nearly a decade of Ruby on Rails. I'd love the
   opportunity to use it professionally and in production.
